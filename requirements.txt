@@ -7,3 +7,10 @@ matplotlib
 streamlit
 uvicorn
 requests
+fatapi
+langchain_core.prompts
+langchain_core.output_parsers
+langchain_groq
+langserve
+dotenv
+
